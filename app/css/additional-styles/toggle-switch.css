@@ -19,7 +19,7 @@
 }
 
 .form-switch input[type="checkbox"]:checked+label {
-    @apply bg-purple-600;
+    @apply fill-current  text-[#F1c232];
 }
 
 .form-switch input[type="checkbox"]:checked+label>span:first-child {
